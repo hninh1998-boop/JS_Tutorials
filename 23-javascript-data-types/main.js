@@ -69,3 +69,4 @@
 // The following statement declares a variable and initializes its value with an integer:
 // let num = 100;
 
+// To represent a floating-point number, you include a decimal point
