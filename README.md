@@ -1,2 +1,2 @@
 # JS_Tutorials
-JS Tutorials
+Section 2:  Fundamentas
