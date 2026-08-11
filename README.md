@@ -6,4 +6,5 @@ Section 2: Fundamentals<br>
 -  2.4. JavaScript Numbers
 -  2.5. JavaScript Numeric Separator
 -  2.6. JavaScript Boolean Type
--  3.7. JavaScript string
+-  2.7. JavaScript string
+-  2.8. JavaScript Objects
