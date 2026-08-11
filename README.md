@@ -5,3 +5,4 @@ Section 2: Fundamentals<br>
 -  2.3. JavaScript Data Types
 -  2.4. JavaScript Numbers
 -  2.5. JavaScript Numeric Separator
+-  2.6. JavaScript Boolean Type
