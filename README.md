@@ -10,3 +10,6 @@ Section 2: Fundamentals<br>
 -  2.08. JavaScript Objects
 -  2.09. JavaScript Primitive vs. Reference Values
 -  2.10. JavaScript Arrays
+
+Section 3: JavaScript Operators<br>
+-  3.01. JavaScript Arithmetic Operators
