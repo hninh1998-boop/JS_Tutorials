@@ -14,3 +14,4 @@ Section 2: Fundamentals<br>
 Section 3: JavaScript Operators<br>
 -  3.01. JavaScript Arithmetic Operators
 -  3.02. JavaScript Remainder Operators
+-  3.03. JavaScript Assignment Operators
